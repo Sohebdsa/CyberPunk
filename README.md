@@ -9,7 +9,6 @@ A visually immersive Cyberpunk-themed 3D web application featuring an interactiv
 
 ## 📸 Screenshots
 
-> Add your screenshots here
 
 ![Cyberpunk 3D App Screenshot](./public/s1.png)
 *Main landing page with 3D helmet model*
