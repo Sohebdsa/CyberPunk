@@ -23,10 +23,7 @@ A visually immersive Cyberpunk-themed 3D web application featuring an interactiv
 
 > Add your demo video here
 
-[![Cyberpunk 3D Demo Video](./cyberpunkSS.gif)
-
-
-```
+[![Cyberpunk 3D Demo Video](./public/cyberpunkSS.gif)]
 html
 <video width="100%" controls>
   <source src="./demo.mp4" type="video/mp4">
