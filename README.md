@@ -11,10 +11,10 @@ A visually immersive Cyberpunk-themed 3D web application featuring an interactiv
 
 > Add your screenshots here
 
-![Cyberpunk 3D App Screenshot](./s1.png)
+![Cyberpunk 3D App Screenshot](./public/s1.png)
 *Main landing page with 3D helmet model*
 
-![Cyberpunk 3D App Screenshot](./s2.png)
+![Cyberpunk 3D App Screenshot](./public/s2.png)
 *Interactive 3D view with orbit controls*
 
 ---
@@ -23,9 +23,8 @@ A visually immersive Cyberpunk-themed 3D web application featuring an interactiv
 
 > Add your demo video here
 
-[![Cyberpunk 3D Demo Video](./cyberpunkSS.gif)]
+[![Cyberpunk 3D Demo Video](./cyberpunkSS.gif)
 
-Or embed a video:
 
 ```
 html
