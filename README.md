@@ -21,8 +21,10 @@ A visually immersive Cyberpunk-themed 3D web application featuring an interactiv
 
 ## 🎥 Demo Video
 
-![Cyberpunk 3D Demo Video](./public/cyberpunkSS.gif)
-
+<!-- ![Cyberpunk 3D Demo Video](./public/cyberpunkSS.gif) -->
+<p align="center">
+  <img src="./public/cyberpunkSS.gif" style="width:100%; height:auto;" />
+</p>
 
 ---
 
