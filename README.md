@@ -180,4 +180,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ using React + Three.js
+Made by V3NOM with ❤️ using React + Three.js
