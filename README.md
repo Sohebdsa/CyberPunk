@@ -177,7 +177,6 @@ This project is licensed under the MIT License.
 - GSAP for smooth animations
 - Khronos Group for GLTF format
 - Poly Haven for HDRI textures
-
 ---
 
 Made by V3NOM with ❤️ using React + Three.js
